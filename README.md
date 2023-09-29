@@ -13,5 +13,5 @@ Install:
 Run:
 
     cd GENSIM-Analysis/Dumpers/crab
-    cmsRun Photons_closeEcal_E1-1000_simAnalysis_cfi.py
+    cmsRun Photons_closeEcal_E1-1000_simAnalysis_withBeamspot_cfi.py
 
